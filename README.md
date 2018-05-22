@@ -6,6 +6,8 @@ SPbAU Speech recognition course, Spring '18
 
 ## Content
 * [task02](task02/task02.ipynb) — laughter detector
+* [task03](task03/task03.ipynb) — deepspeech2
+* [task04](task04/task03.ipynb) — simple solution for [TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
 ## License
 [MIT](LICENSE)
